@@ -1,7 +1,7 @@
 
 👋 Hi, I’m Khansa Zainab
 
-🎓 I’m a Cybersecurity student from Pakistan.
+🎓 I’m a BS Cybersecurity student from Pakistan.
 💻 I love learning about ethical hacking, Linux, and programming.
 🧩 I can code in C++, Java, and Python and I’m always improving my skills.
 💡 I enjoy working with computers, solving problems, and learning new tools.
